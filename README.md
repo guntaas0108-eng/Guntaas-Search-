@@ -41,8 +41,8 @@ Unlike commercial search engines that profile your online behavior, **Guntaas Se
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Guntaas-Search.git
-cd Guntaas-Search
+git clone https://github.com/guntaas0108-eng/Guntaas-Search-.git
+cd Guntaas-Search-
 ```
 
 ### 2. Launch with Docker Compose
